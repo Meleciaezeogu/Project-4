@@ -1,0 +1,52 @@
+                            Project11
+
+
+1- Basics concepts
+b- What is a DevOps? DevOps is a culture that more companies are adopting in the area of IT.  Within this culture/practice, the Software Developers (coders) work in more of a team environment with other IT professionals.  Devops enables both sides to share information, test data, troubleshoot issues, and deploy products in a more efficient, frequent, and rapid manner.  This is all made possible by automated processes. 
+In short, DevOps is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes
+b- What is GIT? Git is a distributed, widely used modern version control system. Git is an actively maintained open source system originally developed in 2005 by Linus Torvalds, the creator of the Linux operating system kernel. 
+
+c- what is the difference between git ans svn?   
+•	Git is a distributed, widely used modern version control system. Git is an actively maintained open source system originally developed in 2005 by Linus Torvalds, the creator of the Linux operating system kernel.
+
+•	Ansible is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration
+•	SVN (Subversion) - Apache Subversion (SVN) is an open source tool that provides enterprise-class centralized version control. ... The Subversion plugin for XL Release can: Periodically poll a Subversion (SVN) repository. Trigger a release when there is a new commit to the repository.
+d- what continious integration? It is the practice of merging all developer working copies (of data/code) to a shared mainline several times a day (continuously).
+e- what is continious delevery? It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time
+f- what is scrum?  Scrum is part of the Agile movement. Agile is a response to the failure of the dominant software development project management paradigms (including waterfall) and borrows many principles from lean manufacturing.  Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. Keeps everything (the process) going/running.
+g- What is agile methodology? Agile is a term used to describe approaches to software development emphasizing incremental delivery, team collaboration, continual planning, and continual learning. The term “Agile” was coined in 2001 in the Agile Manifesto. The manifesto set out to establish principles to guide a better approach to software development. At its core, the manifesto declares 4 value statements representing the foundation of the agile movement. As written, the manifesto states…
+We have come to value:
+•	Individuals and interactions over processes and tools
+•	Working software over comprehensive documentation
+•	Customer collaboration over contract negotiation
+•	Responding to change over following a plan
+Agile software development is a set of principles for software development in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change
+
+h- what release calender ?  (Release planning) To assign authorized Changes to release packages and to define the scope and content of Releases. Based on this information, the Release Planning process develops a schedule for building, testing and deploying the Release 
+
+i- what is release date? The date that the product will be released to production  ?????
+
+2- give 4 raisons why companies should consider the DevOps method
+•	Enables developers + IT professionals to share information
+•	Enables issues to be recognized, analyzed (troubleshooting), and remediated rapidly
+•	Allows for continuous processing + real time results
+•	Allows data to continually flow through automation
+•	Decreases cost b/c of authomation
+
+3- what are some automation tools used in the DevOps environment?
+•	ansible
+•	Nagios
+•	ELK
+•	Jenkins
+•	Docker
+•	Git
+
+4- why is it important to build the software in the test regions before delevering it to production?  To ensure that all bugs are fixed prior to releasing to production
+5- create a project in your github repository called project4 and in project 4 , create a file called project11
+6- copy your homework11 answers into the file project11 and commit it.
+7- What is the url to access your github project11 file?
+
+
+
+Melecia A. Ezeogu
+6/23/17
